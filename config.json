@@ -14,13 +14,13 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "-`ღ´🦋𝗠𝗮𝗹𝘃𝗶𝗻𝗮👀🔪",
-  "prefix": ".",
+  "prefix": "/",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879",
+    "100070013974971",
     "61572930974640",
     "61573734832201",
     "",
